@@ -1,0 +1,144 @@
+.header{
+    width: 100%;
+    background-color: #3b5998;
+    height: 90px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width:50%;
+    padding-top: 2%;
+    float: left;
+    
+}
+.login{
+    width:50%;
+    float: left;
+    
+    
+}
+.logoname{
+    margin-left: 23%;
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 0%;
+}
+.logincontrols{
+    margin-top: 3%;
+    margin-left: 16%;
+}
+.forgotacnt{
+    padding-left: 1%;
+    color: rgb(175, 200, 237);
+    padding-bottom:10% ;
+    font-size: 70%;
+}
+.submitbtn{
+    background-color: #3350a9;color: white;
+}
+.submitbtn:hover{background-color: rgb(47, 9, 160);
+
+}
+.left-section{
+    width: 50%;
+    float: left;
+    background-color: white;
+   
+
+}
+.right-section{
+    width: 50%;
+    float: left;
+    margin-bottom: 0%;
+
+}
+.main-body{
+    width: 100%;
+    height:500px ;
+    background: linear-gradient(white,#d3d8e8);
+
+
+}
+.textfb{
+    padding-left: -3%;
+}
+.textaccnt1 {
+    margin-left: 15%;
+    margin-top: -8%;
+}
+.h5{margin-left: 0%;
+margin-bottom: 0%;
+}
+.h1{
+    margin-bottom: 0%;
+
+}
+.login-Details{
+    
+    margin-left: 15%;
+    margin-top: 3%;
+}
+input[type=text]{
+    border-radius: 4px;
+    height: 23px;
+}
+.Email{
+    margin-left: 15%;
+    padding-bottom: 0%;
+    
+}
+.emailconf{
+    margin-top: 3%;
+
+}
+.resize{
+    width: 63%;
+}
+.passwordconf{
+    margin-top: 3%;
+
+}
+p{
+    font-size: 15px;
+    margin-left: 13%;
+}
+.bday{
+    margin-left: 15%;
+}
+.gender{
+    margin-left: 15%;
+    margin-top: 3%;
+}
+.policy{
+    margin-left: 15%;
+
+}
+h6{
+    font-size: 10px;
+    margin-top: 1%;
+    color: rgb(29, 29, 104);
+}
+.submit {
+    margin-left: 25%;
+    width: 100px;
+    height: 30px;
+    color: aliceblue;
+    background-color: rgb(7, 145, 35);
+    border-radius: 4px;
+    border-width: 3px;
+}
+.submit:hover{
+    background-color: rgb(8, 91, 21);
+    border-width: 2px;
+
+}
+
+    
+ 
+ .errors{
+    color: red;
+ }
+ 
+ 
+ input.errors{border: 1px solid red;}
