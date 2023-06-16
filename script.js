@@ -22,9 +22,8 @@ $(document).ready(function(){
             minlength:8,
             maxlength:10
            },
-           year:{
-            required:true
-           },
+           
+           
            gender:{
             required:true
            }
